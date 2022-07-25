@@ -1,3 +1,3 @@
 # Technical Writing
-This is a sample repository for Technical Writing activities.
-Here you can find a document with the instructions on how to set up video surveillance on a smartphone.
+This is a repository for practising Technical Writing skills.
+In Wiki section, you can find a sample document intended to assist the inhabitants of a residential building in Lviv city with setting-up video surveillance on their smartphones.
